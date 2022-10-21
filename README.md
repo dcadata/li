@@ -2,7 +2,7 @@
 
 * [LinkedIn Profile](https://www.linkedin.com/in/dankar) `nkedin`
 
-* [CV](https://docs.google.com/document/d/1UaZaiMhzL47dvmUcIuYsGzmc-pV-tV8uViKQ_-Xgw-8/edit?usp=sharing) `cv`
+* [resume/cv](https://docs.google.com/document/d/1UaZaiMhzL47dvmUcIuYsGzmc-pV-tV8uViKQ_-Xgw-8/edit?usp=sharing) `resume`
 
 * [GCB Movement - Editable](https://docs.google.com/spreadsheets/d/1fqPsOxMAHCMo58BLvqczDrdxy0Ttm0gRtHtXu1AVre8/edit?usp=sharing) `gcbedit`
 
