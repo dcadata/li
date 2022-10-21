@@ -1,6 +1,6 @@
 # Links
 
-* [LinkedIn Profile](https://www.linkedin.com/in/dankar) `linkedin`
+* [LinkedIn Profile](https://www.linkedin.com/in/dankar) `nkedin`
 
 * [GCB Movement - Editable](https://docs.google.com/spreadsheets/d/1fqPsOxMAHCMo58BLvqczDrdxy0Ttm0gRtHtXu1AVre8/edit?usp=sharing) `gcb-edit`
 
