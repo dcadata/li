@@ -2,8 +2,6 @@
 
 * [https://github.com/dcadata/li](https://github.com/dcadata/li) `index`
 
-* [resume/cv](https://docs.google.com/document/d/1UaZaiMhzL47dvmUcIuYsGzmc-pV-tV8uViKQ_-Xgw-8/edit?usp=sharing) `resume`
-
 * [GCB Movement - Editable](https://docs.google.com/spreadsheets/d/1fqPsOxMAHCMo58BLvqczDrdxy0Ttm0gRtHtXu1AVre8/edit?usp=sharing) `gcbedit`
 
 * [GCB Movement - Published](https://docs.google.com/spreadsheets/d/e/2PACX-1vRVytOxHu6y9yBi-iMhUzpMF--N-H9kbEHnfp0I8QZzbXKxoJyam6h8md1Nh-9NOPK1v-WPzlN_V7LP/pubhtml) `gcb`
