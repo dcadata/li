@@ -1,8 +1,8 @@
 [
   {
-    "filename": "index",
-    "title": "https://github.com/dcadata/li",
-    "url": "https://github.com/dcadata/li"
+    "filename": "linkedin",
+    "title": "LinkedIn Profile",
+    "url": "https://www.linkedin.com/in/dankar"
   },
   {
     "filename": "gcb-edit",
@@ -18,5 +18,10 @@
     "filename": "fte18",
     "title": "2018 Forecast vs. Actual",
     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQKoREWJPJO7zFoA3s77Pzco_mmHcXqucc5VQaTj7dNPW1j-KNSLuquIQzUZoO_cYHpbGZbxb4P-fVj/pubhtml?gid=0&single=true"
+  },
+  {
+    "filename": "index",
+    "title": "https://github.com/dcadata/li",
+    "url": "https://github.com/dcadata/li"
   }
 ]
