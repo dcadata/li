@@ -1,6 +1,8 @@
 import json
 import os
 
+_BASE_URL = 'https://ankar.io/li/'
+
 
 def main():
     links = json.load(open('config/links.json'))
@@ -8,9 +10,13 @@ def main():
     readme_sections = ['# Links']
 
     for link in links:
-        with open(f'{link["filename"]}.html', 'w') as f:
+        with open('{filename}.html'.format(**link), 'w') as f:
             f.write(template.format(**link))
-        readme_sections.append('* [{title}]({url}) `{filename}`'.format(**link))
+        readme_sections.append('  \n'.join((
+            '* {title} `{filename}`',
+            '  {base_url}{filename}',
+            '  {url}',
+        )).format(**link, base_url=_BASE_URL))
 
     readme = '\n\n'.join(readme_sections)
     with open('README.md', 'w') as f:
