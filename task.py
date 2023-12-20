@@ -15,8 +15,8 @@ def main() -> None:
         readme_sections.append(
             '  \n'.join((
                 '* {title} `{filename}`',
-                '  {base_url}{filename}',
-                '  {url}',
+                '  * {base_url}{filename}',
+                '  * {url}',
             )).format(**link, base_url=_BASE_URL)
         )
 
